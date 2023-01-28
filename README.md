@@ -1,2 +1,2 @@
 # Bus-Info-Sys
-## Group 2
+**Group 2**
